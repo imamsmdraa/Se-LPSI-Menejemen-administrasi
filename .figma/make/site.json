@@ -1,0 +1,10 @@
+{
+  "description": "Website yang dirancang sesuai kebutuhan pengguna, menyajikan informasi dan fitur secara jelas untuk membantu pengunjung mencapai tujuannya.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
